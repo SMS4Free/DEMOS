@@ -1,0 +1,11 @@
+C:\Users\noano\source\repos\sms4free_client_demo\sms4free_client_demo\bin\Debug\sms4free_client_demo.exe.config
+C:\Users\noano\source\repos\sms4free_client_demo\sms4free_client_demo\bin\Debug\sms4free_client_demo.exe
+C:\Users\noano\source\repos\sms4free_client_demo\sms4free_client_demo\bin\Debug\sms4free_client_demo.pdb
+C:\Users\noano\source\repos\sms4free_client_demo\sms4free_client_demo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\noano\source\repos\sms4free_client_demo\sms4free_client_demo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\noano\source\repos\sms4free_client_demo\sms4free_client_demo\obj\Debug\sms4free_client_demo.csproj.AssemblyReference.cache
+C:\Users\noano\source\repos\sms4free_client_demo\sms4free_client_demo\obj\Debug\sms4free_client_demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\noano\source\repos\sms4free_client_demo\sms4free_client_demo\obj\Debug\sms4free_client_demo.csproj.CoreCompileInputs.cache
+C:\Users\noano\source\repos\sms4free_client_demo\sms4free_client_demo\obj\Debug\sms4free_client_demo.csproj.CopyComplete
+C:\Users\noano\source\repos\sms4free_client_demo\sms4free_client_demo\obj\Debug\sms4free_client_demo.exe
+C:\Users\noano\source\repos\sms4free_client_demo\sms4free_client_demo\obj\Debug\sms4free_client_demo.pdb
